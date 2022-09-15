@@ -1,0 +1,17 @@
+[33mcommit 57c8395a9168436242f83f816eceb331a75653ac[m[33m ([m[1;36mHEAD -> [m[1;32mFeatureA[m[33m)[m
+Author: Gpk <premkotigoudg@gmail.com>
+Date:   Thu Sep 15 14:43:58 2022 +0530
+
+    this is the commit i don't want
+
+[33mcommit 4da5a4c28a4e2ee0e6e487eea27086ba10519e02[m[33m ([m[1;32mmain[m[33m)[m
+Author: Gpk <premkotigoudg@gmail.com>
+Date:   Wed Sep 14 17:18:02 2022 +0530
+
+    changes made to file A
+
+[33mcommit db4728656fc9cf27ff3d1cff1fb8fea296c95720[m
+Author: Gpk <premkotigoudg@gmail.com>
+Date:   Wed Sep 14 16:49:40 2022 +0530
+
+    this is the initial commit
